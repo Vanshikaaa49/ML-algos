@@ -1,2 +1,2 @@
 # ML-algos
-A collection of ML algorithms and concepts while learning and exploring.
+Ongoing implementation of core ML algorithms from scratch — regression, classification, clustering — for deep conceptual understanding
